@@ -1,8 +1,8 @@
- var config = {
+ var config = 
      apiKey: 
      authDomain: 
      databaseURL: 
-     storageBucket: ,
+     storageBucket: 
      messagingSenderId: 
  firebase.initializeApp(config);
 
